@@ -1,1 +1,4 @@
-# This is my local Repo
+# Tanujpractise
+Practising git
+<br>
+Author - Tanuj Laxmanna (Student)
